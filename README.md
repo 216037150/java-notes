@@ -11,3 +11,12 @@
     Java for Android mobile app development
     Best practices for Java programming
 
+
+    Outcomes
+
+     Introduce candidates to the basics of Java programming
+    Teach candidates how to use Java for object-oriented programming
+    Provide candidates with a solid understanding of Java concepts such as classes, objects, and inheritance
+    Teach candidates how to use Java for web development and Android mobile app development
+    Provide candidates with hands-on experience creating Java programs
+
