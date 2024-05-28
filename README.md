@@ -46,3 +46,5 @@ Figure 9: Setting up a project in Intellij
 Moving on, we will give our project the name "Learning Java" and make a new folder for it on our desktop. Once those steps are done, we are all set to start our project by hitting the "Create" button.
 
 Figure 9: Setting up a project in Intellij
+![image](https://github.com/216037150/java-notes/assets/52372746/20827fc0-ef00-439c-9765-f8764fc60c50)
+
