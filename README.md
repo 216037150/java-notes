@@ -38,3 +38,11 @@ The 'SE' stands for the standard edition, which suits our needs perfectly. We ar
  To get started, you will want to click on "New Project" and configure some settings. One of the key things to configure is the specific version of Java We will use for coding and running our programs. Do you   happen to know which Java version we should opt for?
 
 After we download Java 20, let's go ahead and choose that option. If Java 20 is not showing up, just make sure you have downloaded the JDK for Java 20. 
+
+Moving on, we will give our project the name "Learning Java" and make a new folder for it on our desktop. Once those steps are done, we are all set to start our project by hitting the "Create" button.
+
+Figure 9: Setting up a project in Intellij
+
+Moving on, we will give our project the name "Learning Java" and make a new folder for it on our desktop. Once those steps are done, we are all set to start our project by hitting the "Create" button.
+
+Figure 9: Setting up a project in Intellij
