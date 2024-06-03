@@ -185,4 +185,24 @@ If the score is not less than 90, then the grade is equal to A.
 This ensures that all possible grades are covered.
 
 
+# Switch Statements
+A switch statement tests a variable for equality against a list of values. Each value is called a case, and the variable being switched on is checked for each case.
+
+![Screenshot from 2024-06-03 10-47-23](https://github.com/216037150/java-notes/assets/52372746/716102c6-9da7-431f-81c1-bdec542fd4ae)
+
+
+The switch statement works like the if-else-if decision structure, perfect for situations with more than two options. The key distinction is that if-else-if checks conditions, while the switch statement checks for equality. In a scenario where a user inputs their grade, we can use a switch statement to display a message matching the student's letter grade.
+
+![image](https://github.com/216037150/java-notes/assets/52372746/2372007a-bd3c-4546-b121-738148adb879)
+
+Switch expressions are like switch statements, but they are more convenient. Instead of separately declaring a message and then assigning it with a switch statement, you can simplify things with switch expressions. 
+
+Just place an equal sign after the message and shift the switch structure to the right side. Also, you can make the cases cleaner by using an arrow (a dash followed by a greater than sign) instead of ":message=". This means the same thing; for instance, if the grade is A, it assigns "Excellent job" to the message variable. You can apply this to other cases too.
+
+![image](https://github.com/216037150/java-notes/assets/52372746/cff8fd54-e769-45b9-a833-9e95375110c9)
+
+
+
+
+
 
