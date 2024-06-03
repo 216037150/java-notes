@@ -154,7 +154,35 @@ Figure 27: Variable naming rules in Java
 
 Figure 27: Variable naming rules in Java
 
-**
+
+# Decision Structures in Java
+  The if statement works like a side road in the program. If a certain situation happens, the program takes that side road and executes a certain block of code, then it goes back to the main path of execution. 
+
+  ![image](https://github.com/216037150/java-notes/assets/52372746/0f724ec8-44ba-4d9b-8048-e53cdf59fa5d)
+
+  This code uses an If statement to decide if an employee gets a bonus based on how many sales they made. The If statement checks if the number of sales is more than the quota. If 
+  it is, then the employee gets a bonus of US$250. Otherwise, they do not get a bonus.
+
+# If-else Statements
+  The if-else statement is a decision structure that allows a program to take one of two paths, depending on whether a certain condition is met. For example, a program could use an if-else statement to determine whether a salesperson has met their quota. If the salesperson has met their quota, the program could print a congratulatory message. Otherwise, the program could print a message reminding the salesperson to try harder next time.
+
+  ![image](https://github.com/216037150/java-notes/assets/52372746/61eb26d0-fb84-40fd-a8ed-91c7bad39001)
+
+This code checks if the user met their quota. If they did, they were informed. Otherwise, they are told how many sales they were short.
+
+The code first initializes the quota to 10. Then, it asks the user how many sales they made this week. Next, it checks if the sales are greater than or equal to the quota. If they are, the code prints a message saying that the user met their quota. Otherwise, the code prints a message saying that the user did not meet their quota and how many sales they were short.
+
+The code uses an if statement to check the condition. The else statement is used to handle the alternative path. The salesShort variable is used to store the number of sales the user was short.
+  
+# Grading pass rate
+  We start with an if statement and say that: 
+
+if the score is less than 60, we will update the grade variable to equal F.
+If the score is not less than 60, we move on to the next condition. We say that if the score is less than 70, then the grade is D.
+If the score is not less than 70, we move on to the next condition. We say that if the score is less than 80, then the grade is C.
+If the score is not less than 80, we move on to the next condition. We say that if the score is less than 90, then the grade is B.
+If the score is not less than 90, then the grade is equal to A.
+This ensures that all possible grades are covered.
 
 
 
