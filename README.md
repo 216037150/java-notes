@@ -201,6 +201,8 @@ Just place an equal sign after the message and shift the switch structure to the
 
 ![image](https://github.com/216037150/java-notes/assets/52372746/cff8fd54-e769-45b9-a833-9e95375110c9)
 
+# Getters & Setters
+
 
 
 
