@@ -201,7 +201,35 @@ Just place an equal sign after the message and shift the switch structure to the
 
 ![image](https://github.com/216037150/java-notes/assets/52372746/cff8fd54-e769-45b9-a833-9e95375110c9)
 
-# Getters & Setters
+Remember, when you do this, the final line of the case should provide a value to assign to the result variable.
+# Relational Operators
+\Relational operators are these symbols that you use when you are dealing with conditions. Think of them like decision-making tools in Java. Picture this: Java has these six special operators, and they help us figure out if something's true or false.
+
+![image](https://github.com/216037150/java-notes/assets/52372746/e32551cd-f3a5-42ee-b167-98aa3c0089f2)
+
+Greater Than Operator >:  This one checks if the number on the left is bigger than the one on the right. Take the example: we are asking, "Is 2 greater than 3?" Nope, that is false.
+Less Than Operator <:  Now, it is the opposite. We are asking, "Is 2 less than 3?" Yes, it is! So, true.
+Greater Than or Equal Operator >=:  Here, we want to know if the number on the left is either bigger or equal to the number on the right. Well, 4 is indeed greater than or equal to 4, so that is true.
+Less Than or Equal Operator <=:  But, 4 is definitely not less than or equal to 3, so that is false.
+Equal To Operator ==:  In Java, using a single equal sign (=) is reserved for assignments, not for comparing stuff. So, to see if two things are equal, we use the double equal sign (==). When we ask, "Is 3 equal to 2?" Nope, false again.
+Not Equal To Operator !=:  When you want to check if something is *not* equal, you use an exclamation mark and an equal sign (!=) together. Like when we ask, "Is 3 not equal to 2?" Yes, indeed it is not equal, so true.
+
+# Logical Operators
+Logical operators let you mix and match conditions to give you one clear yes or no answer, like a Boolean value. They come in handy when you have tricky requirements for making decisions.
+
+![image](https://github.com/216037150/java-notes/assets/52372746/fd54b2f7-e194-47b4-b033-5178c61a43a0)
+
+![image](https://github.com/216037150/java-notes/assets/52372746/cecf1e8d-3606-477a-883b-6a0ca594566e)
+
+# Loops
+![image](https://github.com/216037150/java-notes/assets/52372746/051a6535-39fd-4df1-bcdc-b448d0b75c45)
+![image](https://github.com/216037150/java-notes/assets/52372746/dd11558d-f8e2-473e-9ca8-bbb96fd5f297)
+![image](https://github.com/216037150/java-notes/assets/52372746/4004a22c-ed6d-4950-b824-2b154f36de97)
+![image](https://github.com/216037150/java-notes/assets/52372746/50d8794f-a41e-451a-afd6-269fabd644ae)
+![image](https://github.com/216037150/java-notes/assets/52372746/93efb215-32d3-4df3-9a15-4d03b9470b37)
+![image](https://github.com/216037150/java-notes/assets/52372746/118777f3-69fb-42a2-bae3-6a7d619b83a1)
+
+
 
 
 
