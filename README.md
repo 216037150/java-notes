@@ -232,7 +232,18 @@ Logical operators let you mix and match conditions to give you one clear yes or 
 
 
 
+# Week 3
+ ## Lambada Expression
 
+    A lambda expression is a concise, nameless function used to implement functional interfaces. Functional interfaces are interfaces with only one abstract method. The syntax for lambda expressions consists of three parts: the parameter list (enclosed in parentheses, which can be omitted if there's only one parameter), the arrow token (->), and the body, which can be either a single expression or a code block enclosed in curly braces.
+
+![image](https://github.com/216037150/java-notes/assets/52372746/70008d43-051a-48af-9c9e-e2fea5d644ef)
+![image](https://github.com/216037150/java-notes/assets/52372746/08c1de10-fe20-4b00-aacd-1c1527ca39a7)
+
+![image](https://github.com/216037150/java-notes/assets/52372746/f5bf9b44-874f-4fb4-b080-b5facc5095a6)
+![image](https://github.com/216037150/java-notes/assets/52372746/99b4886a-3788-4c7c-beb9-b847646ab1ef)
+
+![image](https://github.com/216037150/java-notes/assets/52372746/8bf5224c-d9d3-451b-b1a3-654372df9206)
 
 
 
